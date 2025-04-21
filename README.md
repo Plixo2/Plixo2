@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://karina-lang.org/" target="_blank">
+    <img src="grafik.png" alt="Karina Website" />
+  </a>
+</p>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Plixo2.readme)
+
 <!--
 **Plixo2/Plixo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
