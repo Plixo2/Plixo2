@@ -8,22 +8,33 @@
 
 <div align="center">
 
-🚀 **Currently working on:**  
-**Karina** — a statically-typed programming language that compiles to Java bytecode, inspired by modern code semantics.
+
+<div align="center">
+
+<h1 align="center">Currently working on Karina</h1>
+ A statically-typed programming language that compiles to Java bytecode, inspired by modern code semantics. 
+ <br/>
+ <br/>
+ visit 
+<a href="https://karina-lang.org/">
+  Karina-lang.org
+</a>
+
+</div>
+
 
 <br/>
 
+<!--
 <a href="https://karina-lang.org/" target="_blank">
   <img src="grafik.png" alt="Visit the Karina Website" />
 </a>
 
-<br/>
-
-[Learn more about Karina](https://karina-lang.org/)
 
 <br/>
+<br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Plixo2.readme" alt="Visitor Badge" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Plixo2.readme" alt="Visitor Badge" />-->
 
 </div>
 
