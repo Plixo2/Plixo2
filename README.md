@@ -1,8 +1,11 @@
 
+![Plixo2 GitHub Stats](haha.svg)
 
 <!--
+
+
 ![Plixo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plixo2&show_icons=true&theme=shadow_blue)
--->
+
 
 
 
@@ -34,7 +37,7 @@
 <br/>
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Plixo2.readme" alt="Visitor Badge" />-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Plixo2.readme" alt="Visitor Badge" />
 
 </div>
 
