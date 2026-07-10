@@ -111,32 +111,8 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
       
-      <text class="stat  bold" y="12.5">Total Stars Earned:</text>
-      <text class="stat  bold" x="204.01" y="12.5" data-testid="stars">2.2k</text>
-    </g>
-  </g><g transform="translate(0, 25)">
-    <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
-      
-      <text class="stat  bold" y="12.5">Total Commits:</text>
-      <text class="stat  bold" x="204.01" y="12.5" data-testid="commits">3.4k</text>
-    </g>
-  </g><g transform="translate(0, 50)">
-    <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
-      
-      <text class="stat  bold" y="12.5">Total PRs:</text>
-      <text class="stat  bold" x="204.01" y="12.5" data-testid="prs">301</text>
-    </g>
-  </g><g transform="translate(0, 75)">
-    <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
-      
-      <text class="stat  bold" y="12.5">Total Issues:</text>
-      <text class="stat  bold" x="204.01" y="12.5" data-testid="issues">130</text>
-    </g>
-  </g><g transform="translate(0, 100)">
-    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
-      
-      <text class="stat  bold" y="12.5">Contributed to (last year):</text>
-      <text class="stat  bold" x="204.01" y="12.5" data-testid="contribs">29</text>
+      <text class="stat  bold" y="12.5">Total Hours Wasted:</text>
+      <text class="stat  bold" x="204.01" y="12.5" data-testid="stars">21.2k</text>
     </g>
   </g>
     </svg>
