@@ -1,5 +1,4 @@
 
-![Plixo2 GitHub Stats](haha.svg)
 
 <!--
 
